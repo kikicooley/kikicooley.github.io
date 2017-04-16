@@ -73,7 +73,7 @@
     }
 
     nav li a {
-      font: bold 14px 'Arial Narrow', Fallback, 'Arial';
+      font: 18px 'Arial Narrow', Fallback, 'Arial';
       display: inline-block;
         height: 25px;
         padding: 12px 18px 8px 18px;
