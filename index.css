@@ -40,13 +40,13 @@
        width: 100%;
     }
 
-		h1 span {
-			color: ;
-			font: bold 24px/45px 'Arial Narrow', Fallback, 'Arial';
-			letter-spacing: -1px;
-			background: rgb(0,0,0); /*fallback color*/
-			background: rgba(0,0,0,0.7);
-			padding: 10px
+  h1 span {
+    color: #3EBF8F;
+    font: bold 28px/45px 'Arial Narrow', Fallback, 'Arial';
+    letter-spacing: -1px;
+    background: rgb(0,0,0); /*fallback color*/
+    background: rgba(0,0,0,0.4);
+    padding: 10px
 }
 
   h2 {
@@ -73,7 +73,8 @@
     }
 
     nav li a {
-        display: inline-block;
+      font: bold 14px 'Arial Narrow', Fallback, 'Arial';
+      display: inline-block;
         height: 25px;
         padding: 12px 18px 8px 18px;
         vertical-align: middle ;
