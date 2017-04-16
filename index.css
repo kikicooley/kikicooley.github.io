@@ -40,7 +40,16 @@
        width: 100%;
     }
 
-    h2 {
+		h1 span {
+			color: ;
+			font: bold 24px/45px 'Arial Narrow', Fallback, 'Arial';
+			letter-spacing: -1px;
+			background: rgb(0,0,0); /*fallback color*/
+			background: rgba(0,0,0,0.7);
+			padding: 10px
+}
+
+  h2 {
       color: #3EBF8F;
       text-align: right;
       padding: 15px;
